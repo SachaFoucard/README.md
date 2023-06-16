@@ -39,10 +39,12 @@ https://foucardsacha.netlify.app/
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://material-ui.com/" target="_blank"><img style="margin: 10px" src="https://mui.com/static/logo.png" alt="Material-UI" height="50" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer@96add1cd347b6804bd046fe9d4c9b46b0cafdfc5/images/react-native-logo.png" alt="React Native" height="50" /></a>
+
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -53,13 +55,11 @@ https://foucardsacha.netlify.app/
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="Express.js" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/0*we7RY-y_80xZ3u3S.png" alt="Express.js" height="50" /></a>
 </div> 
-
 </td><td valign="top" width="33%">
-
-
  
 </td></tr></table>  
 
@@ -71,9 +71,11 @@ https://foucardsacha.netlify.app/
 <a href="https://github.com/SachaFoucard" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+   
 <a href="https://linkedin.com/in/sacha-foucard" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+   
 <a href="https://instagram.com/sacha_foucard" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
